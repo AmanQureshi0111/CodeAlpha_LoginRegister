@@ -1,4 +1,4 @@
-# CodeAlpha_LoginRegister
+# Login and Register
 ⚙️ How It Works
 
 Registration (registerUser)
